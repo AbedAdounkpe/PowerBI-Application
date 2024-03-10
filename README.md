@@ -1,5 +1,6 @@
 
 Showcasing a fully functional Power BI sheet to monitor a KPI. (In french)
+
 Pré-requis: Avoir Power Bi à la version la plus récente.
 
 
