@@ -1,3 +1,3 @@
 Showcasing a fully functional Power BI sheet to monitor a KPI. (In french)
 
-Télécharger le fichier et l'ouvrir sur votre poste pour apercevoir une application parfaitement fonctionnelle d'un rapport Power BI.
+Télécharger le fichier et l'ouvrir sur votre poste pour apercevoir un extrait parfaitement fonctionnel d'un rapport Power BI. Il s'agit du suivi de 4 indicateurs différents. (Ce n'est pas ma plus belle réalisation. Privilégiez l'aspect parfaitement fonctionnel).
